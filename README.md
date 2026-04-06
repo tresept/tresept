@@ -4,11 +4,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Competive-programming, NLP.
-- 🌱 I’m currently learning system programming, Rust, C++, Haskell, Python.
+- 🔭 I’m currently working on low-level, JIT compiler, networking, cryptography.
+- 🌱 I’m currently learning Rust, TypeScript, Lisp, C, NLP, Image Processing, Assembly.
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: X, e-mail, Discord
+- 📫 How to reach me: E-mail, Discord(@33754)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: my AtCoder rating is gray! 🩶
